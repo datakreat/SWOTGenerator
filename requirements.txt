@@ -10,3 +10,4 @@ langchain-groq
 langchain-openai
 qdrant-client
 langchain-cohere
+langchain_community
