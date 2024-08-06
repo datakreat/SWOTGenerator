@@ -9,3 +9,4 @@ pickle-mixin
 langchain-groq
 langchain-openai
 qdrant-client
+langchain-cohere
